@@ -172,7 +172,7 @@ If you want to help improve this tool or build a SaaS version, reach out.
 
 ## 📹 **Demo Video**
 
-Coming soon on YouTube 📺
+YouTube: https://youtu.be/vLC5hgYd5rQ?si=Fn5XnCoicOpZJSUZ
 
 ---
 
