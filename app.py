@@ -183,7 +183,8 @@ if summarize_clicked:
 
     st.success("Transcript fetched successfully!")
 
-    client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+    client = Groq(api_key=st.secrets["GROQ_API_KEY"])
+
     prompt = f"""
     Summarize the following YouTube transcript.
 
